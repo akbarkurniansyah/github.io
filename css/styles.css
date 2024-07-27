@@ -7704,7 +7704,7 @@ textarea.form-control-lg {
 /* Tambahan */
 
 .responsive-text {
-  font-size: 65px; /* 10% of the viewport width */
+  font-size: 70px; /* 10% of the viewport width */
   white-space: nowrap; /* Prevent line breaks */
   text-align: center; /* Center align the text */
   color:white; /* Text color */
